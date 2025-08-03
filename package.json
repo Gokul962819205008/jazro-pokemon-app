@@ -1,0 +1,21 @@
+{
+  "name": "jazro-pokemon-app",
+  "version": "1.0.0",
+  "description": "JAZRO Frontend Coding Challenge - Pokémon App with Vue 3, Pinia, Bootstrap",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "bootstrap": "^5.3.2",
+    "pinia": "^2.1.6",
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.0.6"
+  }
+}
